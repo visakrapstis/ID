@@ -8,7 +8,7 @@ A powerfull diagnostic tool trained on neuronal networks
 
 To look at the potential of the technology in the field of Medicine
 
-![image1](/assets/img/symptom_checker_3.jpg)
+![image1]<img src="/assets/img/symptom_checker_3.jpg" width="200" height="100">
 
 ## Personal development in IT
 
