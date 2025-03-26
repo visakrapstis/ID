@@ -2,7 +2,7 @@
 Main projects
 
 ## Some reasant projects
-### A powerfull diagnostic tool trained on neuronal networks
+### 1. A powerfull diagnostic tool trained on neuronal networks
 
 [Medical diagnostics in streamlit](https://github.com/visakrapstis/ID/tree/main/medical_diagnostics)
 
