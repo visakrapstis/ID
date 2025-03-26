@@ -4,11 +4,11 @@ Main projects
 ## Some reasant projects
 A powerfull diagnostic tool trained on neuronal networks
 
-[Medical diagnostics in streamlit](https://github.com/visakrapstis/Workflow/tree/main/id_projects/medical_diagnostics)
+[Medical diagnostics in streamlit](https://github.com/visakrapstis/ID/tree/main/medical_diagnostics)
 
 To look at the potential of the technology in the field of Medicine
 
-![image1](/assets/images/symptom_checker_3.jpg)
+![image1](/assets/img/symptom_checker_3.jpg)
 
 ## Personal development in IT
 
