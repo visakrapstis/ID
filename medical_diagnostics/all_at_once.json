@@ -1,0 +1,2514 @@
+{
+    "diseases": [
+        {
+          "name": "Hypertensive Disease",
+          "symptoms": {
+            "Asthenia": 55,
+            "Shortness of breath": 50,
+            "Dizziness": 45,
+            "Chest pain (pressure/chest pain)": 40,
+            "Dizziness/Vertigo": 37,
+            "Palpitation": 30,
+            "Nausea": 28,
+            "Syncope": 25,
+            "Sweating increased": 20,
+            "Angina pectoris": 17,
+            "Fall": 13
+          }
+        },
+        {
+          "name": "Diabetes",
+          "symptoms": {
+            "Polyuria": 95,
+            "Polydypsia": 93,
+            "Asthenia (Fatigue)": 75,
+            "Nausea": 50,
+            "Sweating increased": 48,
+            "Shortness of breath": 38,
+            "Chest pain": 30,
+            "Vertigo (Dizziness)": 25,
+            "Mental status changes": 23,
+            "Unresponsiveness": 20,
+            "Orthopnea": 18,
+            "Rales": 15,
+            "Vomiting": 15,
+            "Labored breathing": 14
+          }
+        },
+        {
+          "name": "Depressive Disorder",
+          "symptoms": {
+            "Mood depressed": 92,
+            "Feeling hopeless": 85,
+            "Unable to concentrate": 78,
+            "Weepiness": 70,
+            "Sleeplessness": 68,
+            "Irritable mood": 60,
+            "Difficulty": 58,
+            "Agitation": 55,
+            "Feeling suicidal": 53,
+            "Suicidal": 53,
+            "Worry": 48,
+            "Nightmare": 43,
+            "Motor retardation": 40,
+            "Tremor": 35,
+            "Auditory hallucinations": 28,
+            "Visual hallucinations": 20,
+            "Intoxication": 18,
+            "Blackout": 16,
+            "Increased energy": 15,
+            "Homelessness": 10
+          }
+        },
+        {
+          "name": "Coronary Heart Disease",
+          "symptoms": {
+            "Chest pain (angina)": 80,
+            "Shortness of breath": 75,
+            "Pressure chest": 70,
+            "Chest tightness": 65,
+            "Increased sweating": 60,
+            "Dyspnea on exertion": 55,
+            "Orthopnea": 50,
+            "Hypokinesia": 30
+          }
+        },
+        {
+          "name": "Pneumonia",
+          "symptoms": {
+            "Shortness of breath": 82,
+            "Cough": 80,
+            "Fever": 77,
+            "Rale": 70,
+            "Productive cough": 68,
+            "Pleuritic pain": 60,
+            "Yellow sputum": 59,
+            "Decreased translucency": 55,
+            "Chill": 54,
+            "Green sputum": 50,
+            "Breath sounds decreased": 48,
+            "Wheezing": 45,
+            "Non-productive cough": 43,
+            "Rhonchus": 40,
+            "Haemoptysis": 35,
+            "Distress respiratory": 32,
+            "Tachypnea": 30,
+            "Malaise": 25,
+            "Night sweat": 20
+          }
+        },
+        {
+          "name": "Heart Failure (Congestive)",
+          "symptoms": {
+            "Shortness of breath": 90,
+            "Orthopnea": 72,
+            "Cough": 60,
+            "Dyspnea": 60,
+            "Jugular venous distention": 50,
+            "Rales": 40,
+            "Wheezing": 30
+          }
+        },
+        {
+          "name": "Cerebrovascular Accident (Stroke)",
+          "symptoms": {
+            "Asthenia": 85,
+            "Hemiplegia": 72,
+            "Dysarthria": 68,
+            "Speech slurred": 70,
+            "Facial paresis": 75,
+            "Unresponsiveness": 52,
+            "Numbness": 40,
+            "Seizure": 8
+          }
+        },
+        {
+          "name": "Asthma",
+          "symptoms": {
+            "Shortness of breath": 90,
+            "Wheezing": 88,
+            "Non-productive cough": 85,
+            "Chest tightness": 80,
+            "Productive cough": 70,
+            "Distress respiratory": 65,
+            "Symptom aggravating factors": 60,
+            "Pleuritic pain": 15,
+            "Cough": 10
+          }
+        },
+        {
+          "name": "Myocardial Infarction",
+          "symptoms": {
+            "Chest pain": 85,
+            "Shortness of breath": 78,
+            "Chest tightness": 73,
+            "Sweating increased": 69,
+            "Pressure chest": 66,
+            "Orthopnea": 57,
+            "Dyspnea": 56,
+            "Palpitation": 42,
+            "Angina pectoris": 40,
+            "ST segment elevation": 38,
+            "T wave inverted": 32,
+            "Presence of Q wave": 30,
+            "Syncope": 24,
+            "ST segment depression": 22,
+            "Hypokinesia": 17,
+            "Rale": 16,
+            "Chest discomfort": 15,
+            "Bradycardia": 10
+          }
+        },
+        {
+          "name": "Hypercholesterolemia",
+          "symptoms": {
+            "chest discomfort": 75,
+            "chest pain": 65,
+            "pressure chest": 60,
+            "shortness of breath": 55,
+            "syncope": 45,
+            "sweating increased": 40,
+            "dyspnea": 35,
+            "numbness": 30,
+            "st segment depression": 25,
+            "t wave inverted": 20,
+            "worry": 18,
+            "bradycardia": 12,
+            "pain": 10,
+            "nonsmoker": 5
+          }
+        },
+        {
+          "name": "Infection",
+          "symptoms": {
+            "Fever": 80,
+            "Cough": 75,
+            "Chills": 60,
+            "Pain": 55,
+            "Erythema": 50,
+            "Swelling": 45,
+            "Diarrhea": 40,
+            "Abscess bacterial": 35,
+            "Pruritus": 30,
+            "Decreased translucency": 25,
+            "Hepatosplenomegaly": 15,
+            "Apyrexial": 5
+          }
+        },
+        {
+          "name": "Urinary Tract Infection",
+          "symptoms": {
+            "Dysuria": 85,
+            "Fever": 75,
+            "Mental status changes": 45,
+            "Asthenia": 40,
+            "Hematuria": 30,
+            "Renal angle tenderness": 28,
+            "Distress respiratory": 25,
+            "Lethargy": 20,
+            "Difficulty passing urine": 15,
+            "Hyponatremia": 10,
+            "Consciousness clear": 5,
+            "Hemodynamically stable": 5
+          }
+        },
+        {
+          "name": "Anemia",
+          "symptoms": {
+            "Fatigue": 95,
+            "Shortness of breath": 85,
+            "Asthenia": 80,
+            "Pallor": 70,
+            "Dizziness": 65,
+            "Orthostasis": 55,
+            "Chill": 50,
+            "Pain": 45,
+            "Swelling": 40,
+            "Rhonchus": 35,
+            "Hyponatremia": 30,
+            "Guaiac positive": 25,
+            "Monoclonal": 20,
+            "Ecchymosis": 15,
+            "Tumor cell invasion": 10,
+            "Haemorrhage": 5,
+            "Heme positive": 4,
+            "Pain back": 3,
+            "Arthralgia": 2,
+            "Transaminitis": 1
+          }
+        },
+        {
+          "name": "Chronic Obstructive Pulmonary Disease (COPD)",
+          "symptoms": {
+            "Shortness of breath": 95,
+            "Cough": 90,
+            "Wheezing": 88,
+            "Chest tightness": 80,
+            "Sputum purulent": 75,
+            "Dyspnea": 70,
+            "Distress respiratory": 65,
+            "Hypoxemia": 55,
+            "Hypercapnia": 45,
+            "Patient non compliance": 25
+          }
+        },
+        {
+          "name": "Dementia",
+          "symptoms": {
+            "Hallucinations auditory": 55,
+            "Agitation": 50,
+            "Unsteady gait": 45,
+            "Unresponsiveness": 40,
+            "Fall": 35,
+            "Lethargy": 30,
+            "Unconscious state": 25,
+            "Bedridden": 20,
+            "Rale": 15,
+            "Rhonchus": 10,
+            "Facial paresis": 8,
+            "Cough": 7,
+            "Syncope": 6,
+            "Fever": 5,
+            "Pain": 4,
+            "Abdominal tenderness": 3,
+            "Ecchymosis": 2
+          }
+        },
+        {
+          "name": "Renal Insufficiency",
+          "symptoms": {
+            "asthenia": 80,
+            "swelling": 78,
+            "shortness of breath": 75,
+            "dyspnea": 73,
+            "hypokinesia": 70,
+            "mental status changes": 65,
+            "rale": 60,
+            "orthopnea": 55,
+            "breath sounds decreased": 53,
+            "hypotension": 50,
+            "urgency of micturition": 48,
+            "difficulty": 45,
+            "hyperkalemia": 42,
+            "ascites": 40,
+            "diarrhea": 35,
+            "apyrexial": 33,
+            "guaiac positive": 28
+          }
+        },
+        {
+          "name": "Confusion",
+          "symptoms": {
+            "mental status changes": 85,
+            "dizziness": 78,
+            "asthenia": 73,
+            "unresponsiveness": 68,
+            "fall": 57,
+            "lethargy": 50,
+            "agitation": 47,
+            "tremor": 42,
+            "dysarthria": 39,
+            "speech slurred": 35,
+            "seizure": 30,
+            "hyponatremia": 25,
+            "unconscious state": 22,
+            "lightheadedness": 19,
+            "sleepy": 16,
+            "headache": 14,
+            "asterixis": 9,
+            "muscle twitch": 8,
+            "enuresis": 5,
+            "consciousness clear": 4
+          }
+        },
+        {
+          "name": "Degenerative Polyarthritis",
+          "symptoms": {
+            "Pain": 90,
+            "Stiffness": 85,
+            "General discomfort": 80,
+            "Asthenia": 65,
+            "Unsteady gait": 50,
+            "Numbness of hand": 45,
+            "Drowsiness": 38,
+            "Non-productive cough": 30,
+            "Food intolerance": 25,
+            "Polydypsia": 20,
+            "Nonsmoker": 10
+          }
+        },
+        {
+          "name": "Hypothyroidism",
+          "symptoms": {
+            "asthenia": 89,
+            "tired": 85,
+            "weight gain": 80,
+            "sleepy": 75,
+            "motor retardation": 70,
+            "unsteady gait": 65,
+            "hypotension": 60,
+            "numbness": 55,
+            "shortness of breath": 45,
+            "mental status changes": 40,
+            "syncope": 36,
+            "speech slurred": 30,
+            "fall": 25,
+            "hyponatremia": 20,
+            "polyuria": 15,
+            "prostatism": 14,
+            "vomiting": 10,
+            "agitation": 8,
+            "difficulty": 7,
+            "nightmare": 5
+          }
+        },
+        {
+          "name": "Anxiety State",
+          "symptoms": {
+            "Nervousness": 80,
+            "Palpitation": 70,
+            "Worry": 65,
+            "Irritable mood": 60,
+            "Agitation": 55,
+            "Sleeplessness": 50,
+            "Tremor": 45,
+            "Weepiness": 40,
+            "Feeling hopeless": 35,
+            "Mood depressed": 33,
+            "Difficulty": 30,
+            "Nightmare": 25,
+            "Chest pain": 20,
+            "Formication": 18,
+            "Hot flush": 15,
+            "Suicidal": 13,
+            "Hallucinations auditory": 10,
+            "Hallucinations visual": 7,
+            "Blackout": 5,
+            "Patient non compliance": 3,
+            "Has religious belief": 1,
+            "Consciousness clear": 1,
+            "Feeling suicidal": 1
+          }
+        },
+        {
+          "name": "Primary Malignant Neoplasm",
+          "symptoms": {
+            "Pain": 75,
+            "Mass of body structure": 70,
+            "Lesion": 65,
+            "Hematuria": 60,
+            "Decreased body weight": 55,
+            "Ascites": 50,
+            "Thicken": 45,
+            "Hoarseness": 40,
+            "Cushingoid habitus": 30,
+            "Emphysematous change": 25
+          }
+        },
+        {
+          "name": "HIV Infections",
+          "symptoms": {
+            "Fever": 70,
+            "Chills": 65,
+            "Night sweats": 55,
+            "Diarrhea": 45,
+            "Decreased body weight": 40,
+            "Cough": 38,
+            "Productive cough": 35,
+            "Pleuritic pain": 30,
+            "Tachypnea": 25,
+            "Hypotension": 20,
+            "Suicidal ideation": 15,
+            "Non-compliance": 10,
+            "Spontaneous rupture of membranes": 5
+          }
+        },
+        {
+          "name": "Cellulitis",
+          "symptoms": {
+            "erythema": 90,
+            "fever": 85,
+            "swelling": 80,
+            "pain": 78,
+            "redness": 75,
+            "chill": 68,
+            "sore to touch": 65,
+            "pruritus": 40,
+            "abscess bacterial": 30,
+            "hypesthesia": 18,
+            "patient non compliance": 15,
+            "scratch marks": 12,
+            "hyperacusis": 5
+          }
+        },
+        {
+          "name": "Gastroesophageal Reflux Disease",
+          "symptoms": {
+            "Heartburn": 85,
+            "Burning sensation": 80,
+            "Regurgitation (sensory discomfort)": 70,
+            "Nausea": 65,
+            "Chest pain": 62,
+            "Early satiety": 55,
+            "Chest tightness": 50,
+            "Asthenia": 45,
+            "General discomfort": 40,
+            "Abdominal pain": 38,
+            "Throbbing sensation quality": 30,
+            "Palpitation": 26,
+            "Increased sweating": 20,
+            "Presence of Q wave": 15,
+            "Hyponatremia": 10,
+            "Constipation": 10
+          }
+        },
+        {
+          "name": "Sepsis (Invertebrate)",
+          "symptoms": {
+            "Fever": 92,
+            "Chill": 86,
+            "Distress respiratory": 80,
+            "Tachypnea": 76,
+            "Hypotension": 72,
+            "Unresponsiveness": 69,
+            "Lethargy": 65,
+            "Cyanosis": 60,
+            "Rale": 54,
+            "Bradycardia": 47,
+            "Haemorrhage": 32,
+            "Apyrexial": 24,
+            "Spontaneous rupture of membranes": 12,
+            "Breech presentation": 8
+          }
+        },
+        {
+          "name": "Deep Vein Thrombosis",
+          "symptoms": {
+            "Pain in lower limb": 80,
+            "Swelling": 75,
+            "Erythema (redness)": 60,
+            "Erythema": 60,
+            "Pain": 60,
+            "Ecchymosis": 45,
+            "Shortness of breath": 38,
+            "Non-productive cough": 35,
+            "Rale": 30,
+            "Hypotension": 20,
+            "Cardiomegaly": 5,
+            "Clonus": 2
+          }
+        },
+        {
+          "name": "Dehydration",
+          "symptoms": {
+            "Dizziness": 75,
+            "Asthenia": 70,
+            "Lightheadedness": 65,
+            "Nausea": 60,
+            "Lethargy": 58,
+            "Hypotension": 55,
+            "Mental status changes": 50,
+            "Syncope": 45,
+            "Vomiting": 40,
+            "Diarrhea": 35,
+            "Fever": 25,
+            "Anorexia": 22,
+            "Sensory discomfort": 18,
+            "Unwell": 15,
+            "History of - blackout": 10
+          }
+        },
+        {
+          "name": "Neoplasm",
+          "symptoms": {
+            "Mass of body structure": 75,
+            "Lesion": 70,
+            "Tumor cell invasion": 68,
+            "Decreased body weight": 63,
+            "Night sweat": 59,
+            "Pain": 54,
+            "Pain abdominal": 50,
+            "Chest pain": 48,
+            "Hematuria": 42,
+            "Metastatic lesion": 38,
+            "Satiety early": 32,
+            "Food intolerance": 29,
+            "Hemianopsia homonymous": 23,
+            "Headache": 21,
+            "Anosmia": 19
+          }
+        },
+        {
+          "name": "Embolism - Pulmonary",
+          "symptoms": {
+            "Shortness of breath": 90,
+            "Chest pain": 70,
+            "Pleuritic pain": 65,
+            "Respiratory distress": 60,
+            "Wheezing": 55,
+            "Non-productive cough": 45,
+            "Hypoxemia": 40,
+            "Dyspnea": 35,
+            "Tachypnea": 30,
+            "Productive cough": 25,
+            "Yellow sputum": 20,
+            "Apyrexial": 15,
+            "Hematocrit decreased": 10,
+            "Unresponsiveness": 5,
+            "Neck stiffness": 3,
+            "Cicatrisation": 1
+          }
+        },
+        {
+          "name": "Epilepsy",
+          "symptoms": {
+            "Seizure": 95,
+            "Aura": 65,
+            "Muscle twitch": 60,
+            "Lethargy": 45,
+            "Unresponsiveness": 40,
+            "Drowsiness": 35,
+            "Tremor": 30,
+            "Hypometabolism": 25,
+            "Myoclonus": 20,
+            "Sleepy": 18,
+            "Hemiplegia": 15,
+            "Gurgle": 10,
+            "Wheelchair bound": 5
+          }
+        },
+        {
+          "name": "Cardiomyopathy",
+          "symptoms": {
+            "Shortness of breath": 80,
+            "Fatigue": 75,
+            "Dyspnea on exertion": 70,
+            "Chest pain": 65,
+            "Syncope": 55,
+            "Palpitation": 50,
+            "Orthopnea": 45,
+            "Dyspnea": 40,
+            "Jugular venous distention": 35,
+            "Rales": 30,
+            "Hypokinesia": 25,
+            "Weight gain": 20,
+            "Left atrial hypertrophy": 18,
+            "Patient non compliance": 15,
+            "Yellow sputum": 10
+          }
+        },
+        {
+          "name": "Chronic Kidney Failure",
+          "symptoms": {
+            "Asthenia": 85,
+            "Shortness of breath": 75,
+            "Nausea": 65,
+            "Mental status changes": 60,
+            "Swelling": 55,
+            "Vomiting": 50,
+            "Fatigue": 45,
+            "Orthopnea": 40,
+            "Fever": 30,
+            "Chills": 28,
+            "Chest tightness": 25,
+            "Rales": 20,
+            "Malaise": 18,
+            "Pleural pain": 16,
+            "Jaundice/Yellow sputum": 14,
+            "Jugular venous distention": 13,
+            "Hyperkalemia": 12,
+            "Oliguria": 10,
+            "Catatonia": 8,
+            "Guaiac positive": 5,
+            "Apyrexial": 3,
+            "Diarrhea": 2
+          }
+        },
+        {
+          "name": "Carcinoma",
+          "symptoms": {
+            "General discomfort": 70,
+            "Pain": 68,
+            "Decreased body weight": 65,
+            "Mass of body structure": 60,
+            "Lesion": 58,
+            "Tumor cell invasion": 56,
+            "Nausea": 50,
+            "Diarrhea": 45,
+            "Hoarseness": 42,
+            "Sore to touch": 40,
+            "Non-productive cough": 36,
+            "Heartburn": 30,
+            "Constipation": 28,
+            "Metastatic lesion": 23,
+            "Thicken": 20,
+            "Paresthesia": 18,
+            "Unhappy": 15,
+            "Gravida 0": 10,
+            "Lung nodule": 8
+          }
+        },
+        {
+          "name": "Hepatitis C",
+          "symptoms": {
+            "Chill": 60,
+            "Ache": 55,
+            "Distended abdomen": 45,
+            "Ascites": 37,
+            "Asterixis": 33,
+            "Heavy feeling": 30,
+            "Macerated skin": 22,
+            "Cough": 18,
+            "Patient non compliance": 15,
+            "Feeling suicidal": 5,
+            "Hallucinations auditory": 2
+          }
+        },
+        {
+          "name": "Peripheral Vascular Disease",
+          "symptoms": {
+            "Rest pain": 80,
+            "Shortness of breath": 45,
+            "Labored breathing": 40,
+            "Dyspnea": 35,
+            "Anorexia": 28,
+            "Sore to touch": 25,
+            "Sinus rhythm": 20,
+            "Angina pectoris": 18,
+            "Sleepy": 12,
+            "Hyperkalemia": 5,
+            "Unresponsiveness": 3
+          }
+        },
+        {
+          "name": "Psychotic Disorder",
+          "symptoms": {
+            "Hallucinations auditory": 78,
+            "Verbal auditory hallucinations": 75,
+            "Hallucinations visual": 70,
+            "Agitation": 57,
+            "Irritable mood": 50,
+            "Withdraw": 50,
+            "Worry": 48,
+            "Feeling hopeless": 46,
+            "Tremor": 45,
+            "Feeling suicidal": 41,
+            "Suicidal": 41,
+            "Nightmare": 35,
+            "Sleeplessness": 34,
+            "Motor retardation": 30,
+            "Behavior hyperactive": 30,
+            "Energy increased": 26,
+            "Consciousness clear": 25,
+            "Weepiness": 22,
+            "Catatonia": 20,
+            "Patient non compliance": 19,
+            "Homelessness": 18,
+            "Terrorify": 16,
+            "Mood depressed": 16,
+            "Intoxication": 10,
+            "Blackout": 8
+          }
+        },
+        {
+          "name": "Hyperlipidemia",
+          "symptoms": {
+            "Often asymptomatic": 80,
+            "Chest discomfort": 12,
+            "Chest pain (angina)": 10,
+            "Shortness of breath": 8,
+            "Dizziness": 4,
+            "Sweating increased": 2,
+            "Palpitation": 2,
+            "Hypokinesia": 1,
+            "Hemiplegia": 1,
+            "Presence of Q wave on ECG": 1,
+            "Photopsia": 1,
+            "Giddy mood": 1
+          }
+        },
+        {
+          "name": "Bipolar Disorder",
+          "symptoms": {
+            "Irritable mood": 60,
+            "Energy increased": 55,
+            "Agitation": 50,
+            "Difficulty": 45,
+            "Behavior hyperactive": 40,
+            "Hallucinations auditory": 35,
+            "Tremor": 30,
+            "Exhaustion": 28,
+            "Loose associations": 25,
+            "Hallucinations visual": 23,
+            "Suicidal thoughts": 22,
+            "Weepiness": 20,
+            "Sleeplessness": 18,
+            "Hypersomnia": 17,
+            "Blackout": 15,
+            "Motor retardation": 14,
+            "Worry": 13,
+            "Feeling hopeless": 12,
+            "Feeling suicidal": 11,
+            "Extrapyramidal sign": 9,
+            "Mydriasis": 8,
+            "Catatonia": 7,
+            "Hyperhidrosis disorder": 6,
+            "Disturbed family": 5,
+            "Homelessness": 4,
+            "Has religious belief": 3,
+            "Intoxication": 2
+          }
+        },
+        {
+            "name": "Obesity",
+            "symptoms": {
+                "Tired": 70,
+                "Shortness of breath": 65,
+                "Snore": 60,
+                "Overweight": 55,
+                "Mood depressed": 50,
+                "Chest pain": 45,
+                "Pain": 40,
+                "Systolic murmur": 35,
+                "Ecchymosis": 30,
+                "R wave feature": 25,
+                "Catatonia": 20,
+                "Has religious belief": 5
+            }
+        },
+        {
+          "name": "Ischemia",
+          "symptoms": {
+            "Chest pain": 70,
+            "Shortness of breath": 60,
+            "Angina pectoris": 58,
+            "Chest pressure": 55,
+            "Increased sweating": 50,
+            "Chest discomfort": 45,
+            "Rales": 35,
+            "Dyspnea": 35,
+            "Bradycardia": 20,
+            "Asymptomatic": 15,
+            "Sinus rhythm": 13,
+            "Sleepiness": 10,
+            "Anorexia": 8
+          }
+        },
+        {
+          "name": "Cirrhosis",
+          "symptoms": {
+            "Distended abdomen": 89,
+            "Ascites": 75,
+            "Hemodynamically stable": 69,
+            "Pain abdominal": 60,
+            "Splenomegaly": 54,
+            "Pruritus": 50,
+            "Lesion": 35,
+            "Guaiac positive": 28,
+            "Sore to touch": 18,
+            "Tumor cell invasion": 14,
+            "Bleeding of vagina": 6,
+            "Fall": 2
+          }
+        },
+        {
+          "name": "Exanthema",
+          "symptoms": {
+            "Erythema": 80,
+            "Pruritus": 75,
+            "Fever": 68,
+            "Chill": 65,
+            "Pain": 55,
+            "Swelling": 45,
+            "Macule": 35,
+            "Headache": 30,
+            "Lesion": 28,
+            "Redness": 25,
+            "Arthralgia": 20,
+            "Scratch marks": 15,
+            "Photophobia": 10,
+            "Painful swallowing": 8,
+            "Apyrexial": 5
+          }
+        },
+        {
+          "name": "Benign Prostatic Hyperplasia",
+          "symptoms": {
+            "Orthostasis": 60,
+            "Distress respiratory": 45,
+            "Orthopnea": 40,
+            "Mental status changes": 25,
+            "Blackout": 20,
+            "Night sweat": 15,
+            "Dysarthria": 12,
+            "Anorexia": 8,
+            "Cachexia": 5
+          }
+        },
+        {
+          "name": "Acute Kidney Failure",
+          "symptoms": {
+            "Oliguria": 90,
+            "Asthenia": 85,
+            "Hypotension": 70,
+            "Hyperkalemia": 65,
+            "Haemorrhage": 55,
+            "Hypocalcemia result": 45,
+            "Unresponsiveness": 40,
+            "Diarrhea": 30,
+            "Hypothermia, natural": 25,
+            "Haemodynamically stable": 15
+          }
+        },
+        {
+          "name": "Mitral Valve Insufficiency",
+          "symptoms": {
+            "Dyspnea on exertion": 85,
+            "Fatigue": 80,
+            "Shortness of breath": 75,
+            "Palpitation": 70,
+            "Chest discomfort": 55,
+            "Syncope": 45,
+            "Cardiomegaly": 40,
+            "Left atrial hypertrophy": 35,
+            "Asymptomatic": 30,
+            "Thicken": 25,
+            "Dyspnea": 20,
+            "Pain": 15,
+            "Hypokinesia": 10,
+            "Vomiting": 5
+          }
+        },
+        {
+          "name": "Arthritis",
+          "symptoms": {
+            "Pain": 85,
+            "Swelling": 78,
+            "Asthenia": 46,
+            "Sleeplessness": 30,
+            "General unsteadiness": 27,
+            "Shortness of breath": 15,
+            "Syncope": 10,
+            "Hemodynamically stable": 5,
+            "Distended abdomen": 3,
+            "Atypia": 2
+          }
+        },
+        {
+          "name": "Bronchitis",
+          "symptoms": {
+            "cough": 95,
+            "productive cough": 85,
+            "shortness of breath": 70,
+            "chest tightness": 62,
+            "wheezing": 54,
+            "fever": 47,
+            "chill": 40,
+            "dyspnea": 38,
+            "labored breathing": 35,
+            "throat sore": 28,
+            "snuffle": 20,
+            "hacking cough": 20,
+            "stridor": 18,
+            "haemoptysis": 15,
+            "night sweat": 10,
+            "hepatosplenomegaly": 5,
+            "decreased body weight": 3
+          }
+        },
+        {
+          "name": "Hemiparesis",
+          "symptoms": {
+            "paresis": 90,
+            "hemiplegia": 80,
+            "asthenia": 75,
+            "dysarthria": 70,
+            "speech slurred": 65,
+            "facial paresis": 60,
+            "unresponsiveness": 50,
+            "sleepy": 45,
+            "stupor": 40,
+            "abnormal sensation": 37,
+            "focal seizures": 30,
+            "seizure": 25,
+            "clonus": 20,
+            "aphagia": 15,
+            "fremitus": 10,
+            "Stahli's line": 5,
+            "stinging sensation": 2,
+            "paralyse": 1
+          }
+        },
+        {
+          "name": "Osteoporosis",
+          "symptoms": {
+            "Pain": 80,
+            "Fall": 65,
+            "Out of breath": 40,
+            "Lightheadedness": 36,
+            "Vertigo": 32,
+            "Syncope": 26,
+            "Numbness of hand": 20,
+            "Bradykinesia": 11,
+            "Prostatism": 7,
+            "Apyrexial": 5,
+            "Distended abdomen": 4,
+            "Hirsutism": 3,
+            "Sniffle": 2,
+            "Urge incontinence": 2
+          }
+        },
+        {
+          "name": "Transient Ischemic Attack",
+          "symptoms": {
+            "Asthenia (fatigue)": 70,
+            "Vertigo": 65,
+            "Speech slurred (dysarthria)": 63,
+            "Facial paresis": 50,
+            "Numbness": 50,
+            "Headache": 44,
+            "Lightheadedness": 42,
+            "Vision blurred": 40,
+            "Difficulty with speech (aphasia)": 37,
+            "Neck stiffness": 35,
+            "Clumsiness": 30,
+            "Room spinning (vertigo)": 29,
+            "Syncope (fainting)": 24,
+            "Rambling speech": 22,
+            "Extrapyramidal sign": 20,
+            "Stahli's line": 5
+          }
+        },
+        {
+          "name": "Adenocarcinoma",
+          "symptoms": {
+            "pain": 80,
+            "mass of body structure": 78,
+            "lesion": 75,
+            "decreased body weight": 72,
+            "pain abdominal": 65,
+            "satiety early": 55,
+            "constipation": 50,
+            "decreased stool caliber": 45,
+            "hematochezia": 40,
+            "scar tissue": 30,
+            "fremitus": 20,
+            "egophony": 15
+          }
+        },
+        {
+          "name": "Paranoia",
+          "symptoms": {
+            "irritable mood": 70,
+            "agitation": 65,
+            "hallucinations auditory": 60,
+            "mood depressed": 55,
+            "hallucinations visual": 50,
+            "verbal auditory hallucinations": 45,
+            "loose associations": 40,
+            "terrify": 35,
+            "energy increased": 30,
+            "neologism": 25,
+            "suicidal": 20,
+            "feeling suicidal": 18,
+            "decompensation": 15,
+            "scar tissue": 10,
+            "blackout": 5,
+            "homelessness": 3
+          }
+        },
+        {
+          "name": "Pancreatitis",
+          "symptoms": {
+            "Pain abdominal": 95,
+            "Nausea": 90,
+            "Vomiting": 88,
+            "Pain": 85,
+            "Sore to touch": 70,
+            "Rigor - temperature-associated observation": 60,
+            "Apyrexial": 45,
+            "Diarrhea": 30,
+            "Stool color yellow": 20
+          }
+        },
+        {
+          "name": "Incontinence",
+          "symptoms": {
+            "urge incontinence": 90,
+            "asthenia": 30,
+            "fall": 25,
+            "syncope": 20,
+            "unresponsiveness": 10,
+            "tremor": 8,
+            "seizure": 6,
+            "unconscious state": 5,
+            "stiffness": 4,
+            "aura": 3,
+            "unhappy": 2,
+            "paraparesis": 1,
+            "moody": 0.5,
+            "fear of falling": 0.3,
+            "spasm": 0.2
+          }
+        },
+        {
+          "name": "Paroxysmal Dyspnea",
+          "symptoms": {
+            "Dyspnea": 95,
+            "Shortness of breath": 90,
+            "Orthopnea": 85,
+            "Dyspnea on exertion": 78,
+            "Cough": 70,
+            "Rale": 60,
+            "Jugular venous distention": 54,
+            "Weight gain": 48,
+            "Palpitation": 45,
+            "Sweating increased": 35,
+            "Chest pain": 30
+          }
+        },
+        {
+          "name": "hernia",
+          "symptoms": {
+            "pain abdominal": 85,
+            "mass of body structure": 75,
+            "pain": 60,
+            "nausea": 50,
+            "asthenia": 43,
+            "sore to touch": 40,
+            "thicken": 30,
+            "food intolerance": 25,
+            "hyperventilation": 20,
+            "excruciating pain": 15,
+            "apyrexial": 10,
+            "haemorrhage": 8,
+            "gag": 7,
+            "posturing": 5,
+            "pulse absent": 3
+          }
+        },
+        {
+          "name": "Carcinoma Prostate",
+          "symptoms": {
+            "Dysuria": 90,
+            "Hematuria": 85,
+            "Hemianopsia Homonymous": 70,
+            "Asthenia": 65,
+            "Decreased Body Weight": 60,
+            "Paresis": 55,
+            "Guaiac Positive": 50,
+            "Tumor Cell Invasion": 45,
+            "Dysesthesia": 40,
+            "Urge Incontinence": 38,
+            "Breath Sounds Decreased": 35,
+            "Orthostasis": 30,
+            "Mass of Body Structure": 28,
+            "Polymyalgia": 25,
+            "Vertigo": 22,
+            "Ataxia": 20,
+            "Rale": 18,
+            "Prolonged Qt Interval": 16,
+            "Pleuritic Pain": 15,
+            "Rhonchus": 14,
+            "Diarrhea": 12,
+            "Passed Stones": 10
+          }
+        },
+        {
+          "name": "edema pulmonary",
+          "symptoms": {
+            "Shortness of breath": 90,
+            "Dyspnea": 88,
+            "Orthopnea": 85,
+            "Tachypnea": 75,
+            "Rales": 70,
+            "Chest discomfort": 68,
+            "Chest pain": 65,
+            "Sweating increased": 50,
+            "Wheezing": 48,
+            "Jugular venous distention": 40,
+            "Sinus rhythm": 30,
+            "Hypotension": 20,
+            "Hyperkalemia": 15,
+            "Patient non compliance": 10,
+            "Urgency of micturition": 5,
+            "Heberden's node": 2
+          }
+        },
+        {
+          "name": "Lymphatic Diseases",
+          "symptoms": {
+            "swelling": 75,
+            "fatigue": 68,
+            "fever": 65,
+            "chill": 60,
+            "night sweat": 55,
+            "pain": 52,
+            "mass of body structure": 50,
+            "lesion": 45,
+            "decreased body weight": 40,
+            "redness": 35,
+            "splenomegaly": 28,
+            "hepatomegaly": 25,
+            "non-productive cough": 20,
+            "fremitus": 15,
+            "egophony": 10,
+            "hyperacusis": 5
+          }
+        },
+        {
+          "name": "Aortic Valve Stenosis",
+          "symptoms": {
+            "Chest pain/chest discomfort": 75,
+            "Shortness of breath (dyspnea on exertion)": 70,
+            "Syncope": 40,
+            "Angina pectoris": 35,
+            "Systolic murmur": 85,
+            "Bradycardia": 15,
+            "Pain": 25,
+            "Sciatica": 5,
+            "Frothy sputum": 10
+          }
+        },
+        {
+          "name": "Carcinoma Breast",
+          "symptoms": {
+            "Mass in breast": 95,
+            "Swelling": 80,
+            "Erythema": 60,
+            "Mass of body structure": 55,
+            "Burning sensation": 30,
+            "Paresthesia": 25,
+            "Lesion": 20,
+            "Formication": 15,
+            "Difficulty": 10,
+            "Retropulsion": 5,
+            "Dyspnea": 3,
+            "Estrogen use": 2
+          }
+        },
+        {
+          "name": "Schizophrenia",
+          "symptoms": {
+            "Hallucinations auditory": 70,
+            "Verbal auditory hallucinations": 68,
+            "Hallucinations visual": 58,
+            "Agitation": 46,
+            "Irritable mood": 42,
+            "Worry": 40,
+            "Patient non compliance": 38,
+            "Hypersomnolence": 35,
+            "Suicidal": 25,
+            "Underweight": 20,
+            "Homelessness": 15
+          }
+        },
+        {
+          "name": "Diverticulitis",
+          "symptoms": {
+            "Pain": 85,
+            "Fever": 75,
+            "Pain abdominal": 74,
+            "Anorexia": 70,
+            "Vomiting": 65,
+            "Diarrhea": 55,
+            "Constipation": 50,
+            "Abdominal tenderness": 48,
+            "Sinus rhythm": 45,
+            "Sore to touch": 40,
+            "Dysuria": 35,
+            "Apyrexial": 34,
+            "Abscess bacterial": 30,
+            "Thicken": 27,
+            "Dullness": 25,
+            "Unsteady gait": 18,
+            "Urgency of micturition": 15,
+            "Monoclonal": 12,
+            "Red blotches": 9,
+            "Colic abdominal": 5
+          }
+        },
+        {
+          "name": "Fluid Overload",
+          "symptoms": {
+            "Shortness of breath": 90,
+            "Orthopnea": 85,
+            "Rales": 80,
+            "Jugular venous distention": 75,
+            "Swelling": 70,
+            "Weight gain": 65,
+            "Distended abdomen": 60,
+            "Hypotension": 50,
+            "Sleepy": 45,
+            "Hyperkalemia": 15,
+            "Hypokalemia": 5
+          }
+        },
+        {
+          "name": "Peptic Ulcer",
+          "symptoms": {
+            "Pain abdominal": 80,
+            "Nausea": 70,
+            "Vomiting": 60,
+            "Pain chest": 55,
+            "Hunger": 50,
+            "Gurgle": 45,
+            "Apyrexial": 35,
+            "Out of breath": 30,
+            "Nervousness": 25,
+            "Polymyalgia": 20,
+            "Hemiplegia": 10,
+            "Paraparesis": 5
+          }
+        },
+        {
+          "name": "Osteomyelitis",
+          "symptoms": {
+            "Pain": 85,
+            "Fever": 75,
+            "Erythema": 70,
+            "Swelling": 65,
+            "Redness": 60,
+            "Sore to touch": 55,
+            "Abscess bacterial": 50,
+            "Apyrexial": 20,
+            "Difficulty passing urine": 15,
+            "Prostate tender": 10,
+            "Pain foot": 5,
+            "Urinary hesitation": 5
+          }
+        },
+        {
+          "name": "Gastritis",
+          "symptoms": {
+            "Nausea": 80,
+            "Pain abdominal": 75,
+            "Vomiting": 65,
+            "Dizziness": 50,
+            "Heme positive": 35,
+            "Guaiac positive": 30,
+            "Haemorrhage": 28,
+            "Pain": 25,
+            "Decreased body weight": 22,
+            "Intoxication": 15,
+            "Sore to touch": 10,
+            "Disequilibrium": 8
+          }
+        },
+        {
+          "name": "Bacteremia",
+          "symptoms": {
+            "Fever": 75,
+            "Chill": 70,
+            "Vomiting": 45,
+            "Diarrhea": 35,
+            "Pallor": 30,
+            "Abdominal tenderness": 28,
+            "Pleural pain": 25,
+            "Flushing": 20,
+            "Indifferent mood": 18,
+            "Unresponsiveness": 15,
+            "Distended abdomen": 10,
+            "Hypoalbuminemia": 8,
+            "Prostatism": 5,
+            "Urinoma": 3,
+            "Pustule": 2
+          }
+        },
+        {
+          "name": "Kidney Failure",
+          "symptoms": {
+            "Fatigue": 85,
+            "Shortness of breath": 75,
+            "Oliguria": 70,
+            "Orthopnea": 65,
+            "Hypotension": 60,
+            "Prostatism": 55,
+            "Enuresis": 50,
+            "Slowing of urinary stream": 45,
+            "Haemorrhage": 40,
+            "Unresponsiveness": 35,
+            "No status change": 30,
+            "Extreme exhaustion": 25,
+            "Bedridden": 20
+          }
+        },
+        {
+          "name": "Sickle Cell Anemia",
+          "symptoms": {
+            "Pain": 85,
+            "Shortness of breath": 74,
+            "Pain chest": 69,
+            "Pain back": 68,
+            "Pain abdominal": 66,
+            "Hepatosplenomegaly": 55,
+            "Headache": 24,
+            "Apyrexial": 20,
+            "Snuffle": 17,
+            "Breakthrough pain": 12,
+            "Green sputum": 5
+          }
+        },
+        {
+          "name": "Heart Failure",
+          "symptoms": {
+            "Shortness of breath": 95,
+            "Dyspnea on exertion": 92,
+            "Fatigue": 90,
+            "Orthopnea": 80,
+            "Dyspnea": 75,
+            "Jugular venous distention": 65,
+            "Angina pectoris": 55,
+            "Hypokinesia": 50,
+            "Pansystolic murmur": 40,
+            "Systolic ejection murmur": 35,
+            "Hypotension": 15
+          }
+        },
+        {
+          "name": "Upper Respiratory Infection",
+          "symptoms": {
+            "Cough": 90,
+            "Sore throat": 85,
+            "Stuffy nose": 80,
+            "Nasal discharge present": 75,
+            "Fever": 55,
+            "Shortness of breath": 40,
+            "Wheezing": 30,
+            "Pleuritic pain": 25,
+            "Labored breathing": 20,
+            "Productive cough": 19,
+            "Non-productive cough": 18,
+            "Rapid shallow breathing": 17,
+            "Dyspnea": 15,
+            "Night sweat": 13,
+            "Symptom aggravating factors": 12,
+            "Snuffle": 11,
+            "Noisy respiration": 10,
+            "Rhonchus": 8,
+            "Egophony": 7,
+            "Polymyalgia": 6,
+            "Indifferent mood": 5,
+            "Barking cough": 4,
+            "Frail": 3,
+            "Cystic lesion": 2,
+            "Apyrexial": 1,
+            "Emphysematous change": 1,
+            "Hemodynamically stable": 1,
+            "Decreased translucency": 1
+          }
+        },
+        {
+          "name": "Hepatitis",
+          "symptoms": {
+            "Abdominal pain": 85,
+            "Fatigue": 75,
+            "Anorexia": 70,
+            "Nausea": 60,
+            "Vomiting": 55,
+            "Fever": 50,
+            "Chills": 45,
+            "Pruritus": 33,
+            "Transaminitis": 99,
+            "Ascites": 25,
+            "Tachypnea": 15,
+            "Respiratory distress": 10,
+            "Projectile vomiting": 5,
+            "Spontaneous rupture of membranes": 1
+          }
+        },
+        {
+          "name": "Hypertension Pulmonary",
+          "symptoms": {
+            "Shortness of breath": 85,
+            "Dyspnea on exertion": 82,
+            "Breath sounds decreased": 76,
+            "Cyanosis": 63,
+            "Left atrial hypertrophy": 35,
+            "Heavy legs": 19,
+            "Hypotension": 15,
+            "Stahli's line": 7,
+            "Neck stiffness": 4
+          }
+        },
+        {
+          "name": "Deglutition Disorder",
+          "symptoms": {
+            "Painful swallowing": 80,
+            "Hoarseness": 75,
+            "Stridor": 60,
+            "Achalasia": 55,
+            "Lesion": 50,
+            "Dysarthria": 45,
+            "Stiffness": 38,
+            "Paresthesia": 33,
+            "Spasm": 30,
+            "Asthenia": 25,
+            "Decreased body weight": 23,
+            "Ataxia": 18,
+            "Titubation": 15,
+            "Dysdiadochokinesia": 13,
+            "Side pain": 10
+          }
+        },
+        {
+          "name": "Gout",
+          "symptoms": {
+            "Pain": 95,
+            "Swelling": 90,
+            "Erythema": 88,
+            "Redness": 84,
+            "Sore to touch": 80,
+            "Hot flush": 51,
+            "Hypokinesia": 35,
+            "Ascites": 20,
+            "Patient non compliance": 10,
+            "Emphysematous change": 5
+          }
+        },
+        {
+          "name": "Thrombocytopaenia",
+          "symptoms": {
+            "Ecchymosis": 85,
+            "Haemorrhage": 75,
+            "Fatigue": 65,
+            "Pruritus": 25,
+            "Fever": 20,
+            "Tachypnea": 15,
+            "Hypotension": 10,
+            "Monocytosis": 5,
+            "Posterior rhinorrhea": 2
+          }
+        },
+        {
+          "name": "Hypoglycemia",
+          "symptoms": {
+            "unresponsiveness": 85,
+            "unconscious state": 75,
+            "distress respiratory": 65,
+            "clammy skin": 60,
+            "incoherent": 55,
+            "hypotension": 50,
+            "hypothermia, natural": 45,
+            "qt interval prolonged": 35,
+            "claudication": 20,
+            "polyuria": 15
+          }
+        },
+        {
+          "name": "Pneumonia - Aspiration",
+          "symptoms": {
+            "Mental status changes": 85,
+            "Unresponsiveness": 75,
+            "Fever": 70,
+            "Cough": 68,
+            "Pain": 60,
+            "Decreased translucency": 55,
+            "Stupor": 45,
+            "Extreme exhaustion": 40,
+            "Hemiplegia": 35,
+            "Seizure": 28,
+            "Diarrhea": 24,
+            "Transaminitis": 22,
+            "Pain abdominal": 20,
+            "Clonus": 16,
+            "Gurgle": 10,
+            "Mediastinal shift": 8
+          }
+        },
+        {
+          "name": "Colitis",
+          "symptoms": {
+            "Pain abdominal": 70,
+            "Nausea": 63,
+            "Vomiting": 63,
+            "Nausea and vomiting": 58,
+            "Fever": 55,
+            "Chill": 52,
+            "Tenesmus": 50,
+            "Urge incontinence": 45,
+            "Hemodynamically stable": 35,
+            "Thicken": 30,
+            "Awakening early": 20,
+            "Green sputum": 15
+          }
+        },
+        {
+          "name": "Diverticulosis",
+          "symptoms": {
+            "Pain": 86,
+            "Constipation": 65,
+            "Nausea": 30,
+            "Heme positive": 24,
+            "Haemorrhage": 18,
+            "Diarrhea": 17,
+            "Lightheadedness": 15,
+            "Anorexia": 14,
+            "Abscess bacterial": 10,
+            "Cystic lesion": 8,
+            "Pneumatouria": 3,
+            "Fecaluria": 2,
+            "Projectile vomiting": 1,
+            "Feeling suicidal": 0,
+            "Feeling hopeless": 0
+          }
+        },
+        {
+          "name": "Suicide Attempt",
+          "symptoms": {
+            "suicidal": 95,
+            "weepiness": 60,
+            "sleeplessness": 58,
+            "irritable mood": 55,
+            "unable to concentrate": 52,
+            "withdraw": 50,
+            "motor retardation": 48,
+            "unresponsiveness": 45,
+            "drowsiness": 42,
+            "tremor": 40,
+            "worry": 38,
+            "agitation": 36,
+            "sensory discomfort": 32,
+            "formication": 28,
+            "fatigue": 25,
+            "hallucinations auditory": 22,
+            "blackout": 20,
+            "difficulty": 18,
+            "unconscious state": 16,
+            "alcoholic withdrawal symptoms": 14,
+            "todd paralysis": 12,
+            "cough": 10,
+            "fever": 8
+          }
+        },
+        {
+          "name": "Pneumocystis carinii pneumonia",
+          "symptoms": {
+            "Dyspnea on exertion": 75,
+            "Non-productive cough": 60,
+            "Chill": 50,
+            "Productive cough": 45,
+            "Yellow sputum": 35,
+            "Headache": 30,
+            "Diarrhea": 25,
+            "Decreased body weight": 23,
+            "Cachexia": 22,
+            "Hacking cough": 20,
+            "Myalgia": 18,
+            "Transaminitis": 15,
+            "Neck stiffness": 12,
+            "Spontaneous rupture of membranes": 5,
+            "Dyspareunia": 4,
+            "Hypokalemia": 3,
+            "Poor dentition": 2,
+            "Floppy": 1
+          }
+        },
+        {
+          "name": "Hepatitis B",
+          "symptoms": {
+            "Abdominal tenderness": 65,
+            "Pain abdominal": 60,
+            "Poor feeding": 50,
+            "Tachypnea": 38,
+            "Yellow sputum": 25,
+            "Moan": 20,
+            "Projectile vomiting": 18,
+            "Inappropriate affect": 10,
+            "Wheelchair bound": 5
+          }
+        },
+        {
+          "name": "Parkinson's Disease",
+          "symptoms": {
+            "Tremor": 85,
+            "Stiffness": 75,
+            "Difficulty with balance (orthostasis)": 65,
+            "Stooped posture/mass of body structure": 57,
+            "Sleep disturbances (sleepy)": 53,
+            "Depression/worry/withdrawal": 49,
+            "Agitation": 45,
+            "Orthostasis": 40,
+            "Bradykinesia (slow movement)": 38,
+            "Facial masking (facial paresis)": 32,
+            "Falls": 28,
+            "Autonomic dysfunction (night sweat, orthostatic hypotension)": 24,
+            "Orthostatic hypotension": 20,
+            "Urinary problems (hematuria)": 14,
+            "Hemiplegia": 8,
+            "Achalasia": 4
+          }
+        },
+        {
+          "name": "Lymphoma",
+          "symptoms": {
+            "Tired": 75,
+            "Fever": 60,
+            "Decreased body weight": 55,
+            "Lesion": 50,
+            "Transaminitis": 40,
+            "Welt": 35,
+            "Haemoptysis": 30,
+            "Difficulty passing urine": 20,
+            "Ataxia": 15,
+            "Polydypsia": 10,
+            "Tinnitus": 8,
+            "Hydropneumothorax": 5,
+            "Superimposition": 1
+          }
+        },
+        {
+          "name": "Hyperglycemia",
+          "symptoms": {
+            "mood depressed": 25,
+            "wheezing": 5,
+            "seizure": 1,
+            "pruritus": 2,
+            "ascites": 1,
+            "cushingoid habitus": 1,
+            "decreased body weight": 20,
+            "sore to touch": 2,
+            "estrogen use": 1,
+            "pustule": 1,
+            "feeling strange": 15
+          }
+        },
+        {
+          "name": "Encephalopathy",
+          "symptoms": {
+            "Unresponsiveness": 45,
+            "Hypokinesia": 40,
+            "Uncoordination": 37,
+            "Tonic seizures": 32,
+            "Asterixis": 29,
+            "Debilitation": 26,
+            "Posturing": 23,
+            "Sleepy": 20,
+            "Thicken": 17,
+            "Haemorrhage": 14,
+            "Absences finding": 10,
+            "Aura": 7,
+            "Consciousness clear": 5
+          }
+        },
+        {
+          "name": "Tricuspid Valve Insufficiency",
+          "symptoms": {
+            "Shortness of breath": 70,
+            "Pain abdominal": 45,
+            "Nausea": 35,
+            "Vomiting": 30,
+            "Fatigue": 25,
+            "Pain": 20,
+            "Bradycardia": 15,
+            "Fever": 10,
+            "Impaired cognition": 7,
+            "Mediastinal shift": 5,
+            "Cicatrisation": 3
+          }
+        },
+        {
+          "name": "Alzheimer's disease",
+          "symptoms": {
+            "agitation": 70,
+            "drool": 55,
+            "frail": 50,
+            "tremor resting": 40,
+            "bedridden": 35,
+            "wheelchair bound": 32,
+            "muscle twitch": 28,
+            "consciousness clear": 25,
+            "tremor": 20,
+            "groggy": 18,
+            "nightmare": 15,
+            "hyperkalemia": 10,
+            "pin-point pupils": 7,
+            "cough": 6,
+            "fever": 5,
+            "rhonchus": 4,
+            "facial paresis": 3
+          }
+        },
+        {
+          "name": "Oral Candidiasis",
+          "symptoms": {
+            "Throat sore": 85,
+            "Painful swallowing": 80,
+            "Poor dentition": 78,
+            "Abdominal bloating": 65,
+            "Adverse effect": 60,
+            "Transaminitis": 45,
+            "Patient non compliance": 43,
+            "Photophobia": 35,
+            "Night sweat": 30,
+            "Decreased body weight": 28,
+            "Diarrhea": 25,
+            "Abdominal tenderness": 23,
+            "Chill": 20,
+            "Non-productive cough": 15,
+            "Headache": 10
+          }
+        },
+        {
+          "name": "Neuropathy",
+          "symptoms": {
+            "Numbness": 85,
+            "Pain": 80,
+            "Fatigability": 70,
+            "Asthenia": 65,
+            "Slowing of urinary stream": 45,
+            "Nausea and vomiting": 30,
+            "Awakening early": 25,
+            "Tenesmus": 20,
+            "Hydropneumothorax": 5,
+            "Superimposition": 1
+          }
+        },
+        {
+          "name": "Kidney Disease",
+          "symptoms": {
+            "Shortness of breath": 40,
+            "Hyperkalemia": 38,
+            "Fever": 25,
+            "Pain chest": 15,
+            "Bleeding of vagina": 10,
+            "Gravida 0": 2
+          }
+        },
+        {
+          "name": "Fibroid Tumor",
+          "symptoms": {
+            "Intermenstrual heavy bleeding": 70,
+            "Abnormally hard consistency": 65,
+            "Previous pregnancies 2": 60,
+            "Para 2": 60,
+            "Shortness of breath": 45,
+            "Haemorrhage": 40,
+            "Heartburn": 30,
+            "Hypotonic": 25,
+            "Proteinemia": 20,
+            "Primigravida": 15,
+            "Abortion": 10,
+            "Fever": 5
+          }
+        },
+        {
+          "name": "Glaucoma",
+          "symptoms": {
+            "Often asymptomatic in early stages": 50,
+            "Burning sensation": 5,
+            "Paresthesia": 4,
+            "Unsteady gait": 3,
+            "Mass of body structure": 2,
+            "Lesion": 2,
+            "Distended abdomen": 1,
+            "Hyponatremia": 1,
+            "Unconscious state": 1,
+            "Fall": 1
+          }
+        },
+        {
+          "name": "Neoplasm Metastasis",
+          "symptoms": {
+            "pain": 65,
+            "tumor cell invasion": 60,
+            "mass of body structure": 55,
+            "metastatic lesion": 50,
+            "lung nodule": 45,
+            "pain abdominal": 40,
+            "thicken": 35,
+            "atypia": 30,
+            "food intolerance": 25,
+            "pain neck": 20
+          }
+        },
+        {
+          "name": "Carcinoma Colon",
+          "symptoms": {
+            "Pain abdominal": 83,
+            "Nausea": 75,
+            "Vomiting": 67,
+            "General discomfort": 62,
+            "Constipation": 50,
+            "Diarrhea": 44,
+            "Lesion": 38,
+            "Urinary hesitation": 25,
+            "Bradycardia": 15,
+            "Systolic ejection murmur": 10,
+            "Prostatism": 10,
+            "Dizzy spells": 8,
+            "Hyperemesis": 6,
+            "Shooting pain": 5,
+            "Polydypsia": 2
+          }
+        },
+        {
+          "name": "Diabetic Ketoacidosis",
+          "symptoms": {
+            "Nausea": 95,
+            "Polyuria": 90,
+            "Vomiting": 85,
+            "Abdominal pain": 80,
+            "Ketones in urine (milky)": 80,
+            "Blurred vision": 70,
+            "Weakness": 65,
+            "Abdominal tenderness": 60,
+            "Diarrhea": 55,
+            "Seizure": 45,
+            "Nervousness": 40,
+            "Aura": 30,
+            "Gurgle": 25,
+            "Feeling strange": 20,
+            "Regurgitates after swallowing": 15
+          }
+        },
+        {
+          "name": "Tonic-Clonic Seizures",
+          "symptoms": {
+            "Unresponsiveness": 92,
+            "Spasm": 89,
+            "Rolling of eyes": 82,
+            "Headache": 71,
+            "Tremor": 67,
+            "Drowsiness": 67,
+            "Sleepy": 62,
+            "Muscle twitch": 59,
+            "Phonophobia": 45,
+            "Ambidexterity": 38,
+            "Hirsutism": 23,
+            "Decreased body weight": 18,
+            "Absences finding": 15,
+            "Tumor cell invasion": 13,
+            "Myoclonus": 11,
+            "Moody": 10,
+            "Lip smacking": 8
+          }
+        },
+        {
+          "name": "Malignant Neoplasms",
+          "symptoms": {
+            "mass of body structure": 70,
+            "night sweat": 65,
+            "decreased translucency": 60,
+            "distress respiratory": 55,
+            "thickening": 50,
+            "pain abdominal": 40,
+            "lesion": 35,
+            "hypotension": 30,
+            "chill": 25,
+            "food intolerance": 20,
+            "dullness": 18,
+            "heartburn": 15,
+            "pulsus paradoxus": 10,
+            "gravida 10": 1
+          }
+        },
+        {
+          "name": "Respiratory Failure",
+          "symptoms": {
+            "Shortness of breath": 90,
+            "Tachypnea": 85,
+            "Dyspnea": 80,
+            "Productive cough": 70,
+            "Unresponsiveness": 50,
+            "General unsteadiness": 42,
+            "Sinus rhythm": 35,
+            "Lesion": 30,
+            "Hemiplegia": 22,
+            "Hyperkalemia": 16,
+            "Bruit": 14,
+            "Redness": 9,
+            "Snore": 8,
+            "Consciousness clear": 5,
+            "Hypokinesia": 3
+          }
+        },
+        {
+          "name": "Melanoma",
+          "symptoms": {
+            "Mass of body structure": 85,
+            "Pain": 40,
+            "Pruritus": 35,
+            "Fever": 25,
+            "Vomiting": 15,
+            "Diarrhea": 10,
+            "Paraparesis": 3,
+            "Mass in breast": 2,
+            "Gravida 0": 1
+          }
+        },
+        {
+          "name": "Gastroenteritis",
+          "symptoms": {
+            "Nausea": 80,
+            "Pain abdominal": 78,
+            "Retching": 75,
+            "Fever": 70,
+            "Myalgia": 60,
+            "Decreased body weight": 30,
+            "Hyponatremia": 25,
+            "Scleral icterus": 15,
+            "Sore to touch": 13,
+            "Mass of body structure": 8,
+            "Breath-holding spell": 5
+          }
+        },
+        {
+          "name": "Carcinoma of Lung",
+          "symptoms": {
+            "Shortness of breath": 80,
+            "Cough": 76,
+            "Asthenia": 70,
+            "Haemoptysis": 55,
+            "Decreased translucency": 50,
+            "Lung nodule": 47,
+            "Night sweat": 35,
+            "Rale": 30,
+            "Lesion": 26,
+            "Metastatic lesion": 20,
+            "Irritable mood": 15,
+            "Agitation": 12,
+            "Gurgle": 10,
+            "Ache": 8,
+            "Debilitation": 5
+          }
+        },
+        {
+          "name": "Manic Disorder",
+          "symptoms": {
+            "energy increased": 65,
+            "elation": 60,
+            "verbally abusive behavior": 55,
+            "difficulty": 45,
+            "blanch": 35,
+            "hypersomnia": 32,
+            "decompensation": 30,
+            "hallucinations auditory": 20,
+            "verbal auditory hallucinations": 18,
+            "hallucinations visual": 16,
+            "feeling suicidal": 14,
+            "suicidal": 12,
+            "feeling hopeless": 10
+          }
+        },
+        {
+          "name": "Personality Disorder",
+          "symptoms": {
+            "irritable mood": 77,
+            "worry": 75,
+            "nervousness": 73,
+            "mood depressed": 70,
+            "agitation": 68,
+            "nightmare": 65,
+            "sleeplessness": 63,
+            "feeling hopeless": 60,
+            "weepiness": 55,
+            "extreme exhaustion": 52,
+            "hallucinations auditory": 45,
+            "side pain": 35,
+            "nausea and vomiting": 30,
+            "pruritus": 25,
+            "scratch marks": 20,
+            "transsexual": 15,
+            "enuresis": 13,
+            "ascites": 8,
+            "homelessness": 5
+          }
+        },
+        {
+          "name": "Primary Carcinoma of the Liver Cells",
+          "symptoms": {
+            "hepatomegaly": 90,
+            "mass of body structure": 85,
+            "lesion": 80,
+            "pain abdominal": 75,
+            "decreased body weight": 70,
+            "splenomegaly": 65,
+            "cachexia": 60,
+            "thicken": 55,
+            "hematocrit decreased": 50,
+            "shortness of breath": 45,
+            "tumor cell invasion": 40,
+            "haemorrhage": 35,
+            "cough": 30,
+            "hypothermia, natural": 25,
+            "paresis": 20,
+            "stupor": 15,
+            "room spinning": 10,
+            "indifferent mood": 5
+          }
+        },
+        {
+          "name": "Emphysema Pulmonary",
+          "symptoms": {
+            "Dyspnea": 90,
+            "Dyspnea on exertion": 85,
+            "Rale": 75,
+            "Hypercapnia": 55,
+            "Cachexia": 35,
+            "Symptom aggravating factors": 28,
+            "Scar tissue": 23,
+            "Night sweat": 18,
+            "Coordination abnormal": 15,
+            "Arthralgia": 14,
+            "Myalgia": 13,
+            "Clammy skin": 10,
+            "Behavior showing increased motor activity": 9,
+            "Room spinning": 8,
+            "Painful swallowing": 6,
+            "Choke": 5,
+            "Tenesmus": 4,
+            "Constipation": 3,
+            "Has religious belief": 2,
+            "Flushing": 1,
+            "Moan": 0.5
+          }
+        },
+        {
+          "name": "Hemorrhoids",
+          "symptoms": {
+            "Pain": 85,
+            "Burning sensation": 80,
+            "Guaiac positive": 72,
+            "Hemorrhage": 65,
+            "Nausea and vomiting": 50,
+            "Diarrhea": 48,
+            "Bowel sounds decreased": 45,
+            "Dizziness": 35,
+            "Decreased stool caliber": 30,
+            "Cough": 24,
+            "Wheezing": 20,
+            "Hyponatremia": 15,
+            "Clonus": 8,
+            "Numbness of hand": 7,
+            "Achalasia": 6,
+            "Hunger": 5
+          }
+        },
+        {
+          "name": "Spasm Bronchial",
+          "symptoms": {
+            "Shortness of breath": 85,
+            "Chest tightness": 80,
+            "Productive cough": 75,
+            "Dyspnea": 70,
+            "Rhonchus": 60,
+            "Tachypnea": 53,
+            "Hemiplegia": 5,
+            "Fever": 7,
+            "Vomiting": 10,
+            "Pain": 12,
+            "Apyrexial": 13,
+            "Hypoxemia": 15,
+            "Sensory discomfort": 17,
+            "Throat sore": 20,
+            "Fremitus": 22,
+            "Scar tissue": 25,
+            "No known drug allergies": 0
+          }
+        },
+        {
+          "name": "Aphasia",
+          "symptoms": {
+            "aphagia": 50,
+            "facial paresis": 30,
+            "paralyse": 25,
+            "muscle twitch": 20,
+            "clonus": 15,
+            "egophony": 10,
+            "charleyhorse": 5,
+            "low back pain": 3
+          }
+        },
+        {
+          "name": "Morbid Obesity",
+          "symptoms": {
+            "labored breathing": 85,
+            "dyspnea": 82,
+            "out of breath": 80,
+            "sedentary": 78,
+            "wheezing": 70,
+            "cough": 68,
+            "hypoxemia": 65,
+            "unhappy": 55,
+            "hematocrit decreased": 50,
+            "renal angle tenderness": 45,
+            "angina pectoris": 42,
+            "feels hot/feverish": 38,
+            "hypothermia, natural": 35
+          }
+        },
+        {
+          "name": "Pyelonephritis",
+          "symptoms": {
+            "Fever": 75,
+            "Chill": 70,
+            "Pain": 65,
+            "Nausea": 55,
+            "Vomiting": 50,
+            "Hematuria": 45,
+            "Urgency of micturition": 40,
+            "Pain abdominal": 35,
+            "Myalgia": 30,
+            "Diarrhea": 25
+          }
+        },
+        {
+          "name": "Endocarditis",
+          "symptoms": {
+            "Shortness of breath": 80,
+            "Breath sounds decreased": 65,
+            "Hypotension": 60,
+            "Night sweat": 55,
+            "Pleuritic pain": 50,
+            "Abscess bacterial": 43,
+            "Cough": 40,
+            "Orthopnea": 35,
+            "Myalgia": 30,
+            "Decreased body weight": 25,
+            "Thicken": 20,
+            "Metastatic lesion": 16,
+            "Pulsus paradoxus": 12,
+            "Apyrexial": 8,
+            "Flare": 6
+          }
+        },
+        {
+          "name": "Pericardial Effusion",
+          "symptoms": {
+            "Shortness of breath": 65,
+            "Pain": 55,
+            "Pericardial friction rub": 45,
+            "Hypotension": 35,
+            "Hemodynamically stable": 30,
+            "Dyspnea": 25,
+            "Cardiomegaly": 20,
+            "Oliguria": 15,
+            "Facial paresis": 10,
+            "Intoxication": 5,
+            "Blackout": 3,
+            "Sputum purulent": 2
+          }
+        },
+        {
+          "name": "Chronic Alcoholic Intoxication",
+          "symptoms": {
+            "Irregular sleep patterns/sleeplessness": 85,
+            "Tremor": 80,
+            "Irritable mood": 75,
+            "Hallucinations auditory": 65,
+            "Feelings of hopelessness": 60,
+            "Seizure": 50,
+            "Shortness of breath": 40,
+            "Neologism": 35,
+            "Breath sounds decreased": 30,
+            "Unconscious state": 25,
+            "Panic": 20,
+            "Hoard": 15,
+            "Suicidal thoughts/feeling suicidal": 10,
+            "Homelessness": 5
+          }
+        },
+        {
+          "name": "Pneumothorax",
+          "symptoms": {
+            "Dyspnea": 85,
+            "Cough": 60,
+            "Agitation": 40,
+            "Haemoptysis": 25,
+            "Hypercapnia": 20,
+            "Soft tissue swelling": 15,
+            "Prostatism": 10,
+            "Cardiovascular event": 5
+          }
+        },
+        {
+          "name": "Delirium",
+          "symptoms": {
+            "Hallucinations auditory": 65,
+            "Unsteady gait": 60,
+            "Sleepy": 55,
+            "Unresponsiveness": 50,
+            "Withdraw": 45,
+            "Verbally abusive behavior": 40,
+            "Worry": 35,
+            "Hyponatremia": 30,
+            "Fever": 25,
+            "Diarrhea": 18,
+            "Feeling suicidal": 10,
+            "Suicidal": 5
+          }
+        },
+        {
+          "name": "Neutropenia",
+          "symptoms": {
+            "Chill": 70,
+            "Cough": 50,
+            "Distress respiratory": 45,
+            "Spleenomegaly": 35,
+            "Night sweat": 30,
+            "Lesion": 25,
+            "Oliguria": 20,
+            "Hypocalcemia result": 18,
+            "Apyrexial": 15,
+            "Snuffle": 10,
+            "Transaminitis": 8,
+            "Monoclonal": 5,
+            "RHD positive": 3
+          }
+        },
+        {
+          "name": "Hyperbilirubinemia",
+          "symptoms": {
+            "Cyanosis": 40,
+            "Myalgia": 25,
+            "Tachypnea": 20,
+            "Bradycardia": 15,
+            "Cough": 10,
+            "Breech presentation": 7,
+            "Cushingoid habitus": 5,
+            "Para 1": 3
+          }
+        },
+        {
+          "name": "Influenza",
+          "symptoms": {
+            "Fever": 85,
+            "Chill": 85,
+            "Headache": 75,
+            "Sore throat": 70,
+            "Shortness of breath": 55,
+            "Malaise": 50,
+            "Extreme exhaustion": 48,
+            "Distress respiratory": 45,
+            "Snuffle": 35,
+            "Sneeze": 30,
+            "Pleuritic pain": 25,
+            "Green sputum": 15,
+            "Symptom aggravating factors": 10,
+            "Dysuria": 5,
+            "Uncoordination": 3,
+            "Debilitation": 3,
+            "Lip smacking": 1,
+            "Scleral icterus": 1,
+            "Nasal flaring": 1,
+            "Blackout": 1
+          }
+        },
+        {
+          "name": "Substance Dependence",
+          "symptoms": {
+            "Agitation": 65,
+            "Tremor": 60,
+            "Lethargy": 55,
+            "Suicidal thoughts": 50,
+            "Feeling hopeless": 48,
+            "Intoxication": 45,
+            "Muscle twitch": 40,
+            "Seizure": 35,
+            "Heavy legs": 30,
+            "Prostatism": 25,
+            "Rales": 20,
+            "Stuffy nose": 15,
+            "Homelessness": 10
+          }
+        },
+        {
+          "name": "Thrombus",
+          "symptoms": {
+            "shortness of breath": 55,
+            "hypokinesia": 48,
+            "facial paresis": 38,
+            "vomiting": 27,
+            "hemodynamically stable": 22,
+            "anorexia": 15,
+            "hypoalbuminemia": 10,
+            "hypertonicity": 9,
+            "sore to touch": 8,
+            "stool color yellow": 4,
+            "pruritus": 3
+          }
+        },
+        {
+          "name": "Cholecystitis",
+          "symptoms": {
+            "Pain abdominal": 85,
+            "Nausea": 75,
+            "Murphy's sign": 70,
+            "Pain": 65,
+            "Diarrhea": 50,
+            "Colic abdominal": 48,
+            "Sinus rhythm": 30,
+            "QT interval prolonged": 26,
+            "Cardiovascular event": 20,
+            "Constipation": 18,
+            "Moan": 15,
+            "Groggy": 13,
+            "Abnormally hard consistency": 10,
+            "Flatulence": 8,
+            "Gasping for breath": 6,
+            "Feces in rectum": 4,
+            "Ascites": 2
+          }
+        },
+        {
+          "name": "Hiatal Hernia",
+          "symptoms": {
+            "Pain abdominal": 85,
+            "Nausea": 78,
+            "Vomiting": 65,
+            "General discomfort": 60,
+            "Dyspnea on exertion": 50,
+            "Fatigability": 45,
+            "Photophobia": 25,
+            "Sore to touch": 23,
+            "Myalgia": 22,
+            "Headache": 20,
+            "Asterixis": 12,
+            "Hyponatremia": 11,
+            "Guaiac positive": 10,
+            "Numbness of hand": 6,
+            "Prodrome": 2
+          }
+        },
+        {
+          "name": "Migraine Disorders",
+          "symptoms": {
+            "Nausea": 80,
+            "Vomiting": 70,
+            "Dizziness": 40,
+            "Numbness": 35,
+            "Fever": 20,
+            "Ambidexterity": 5,
+            "Splenomegaly": 2
+          }
+        },
+        {
+          "name": "Pancytopenia",
+          "symptoms": {
+            "Fatigue": 75,
+            "Fatigability": 70,
+            "Haemorrhage": 60,
+            "Hypoproteinemia": 40,
+            "Colic abdominal": 30,
+            "Cushingoid habitus": 20,
+            "Stool color yellow": 10
+          }
+        },
+        {
+          "name": "Biliary Calculus",
+          "symptoms": {
+            "Pain abdominal": 85,
+            "Nausea": 75,
+            "Vomiting": 65,
+            "Pain": 60,
+            "Apyrexial": 30,
+            "Diarrhea": 20,
+            "Ascites": 15,
+            "Sore to touch": 12,
+            "Thicken": 10,
+            "Cushingoid habitus": 5,
+            "Palpitation": 3
+          }
+        },
+        {
+          "name": "Tachycardia Sinus",
+          "symptoms": {
+            "Shortness of breath": 50,
+            "T wave inverted": 40,
+            "Chest pressure": 30,
+            "Increased sweating": 22,
+            "Orthostasis": 18,
+            "Vomiting": 15,
+            "Left atrial hypertrophy": 13,
+            "Pain abdominal": 10,
+            "Scar tissue": 5,
+            "Cardiovascular event": 3,
+            "Alcohol binge episode": 1
+          }
+        },
+        {
+          "name": "Ileus",
+          "symptoms": {
+            "pain abdominal": 85,
+            "constipation": 75,
+            "nausea": 65,
+            "abdominal tenderness": 60,
+            "flatulence": 55,
+            "thicken": 40,
+            "mass of body structure": 35,
+            "air fluid level": 30,
+            "sore to touch": 25,
+            "apyrexial": 20,
+            "abdomen acute": 18,
+            "catching breath": 16,
+            "abscess bacterial": 14,
+            "gravida 0": 10,
+            "diarrhea": 5
+          }
+        },
+        {
+          "name": "Adhesion",
+          "symptoms": {
+            "Pain": 80,
+            "Shortness of breath": 55,
+            "Unsteady gait": 30,
+            "Decreased body weight": 20,
+            "Vomiting": 15,
+            "Flatulence": 13,
+            "Lung nodule": 10,
+            "Breech presentation": 10,
+            "Large-for-dates fetus": 10,
+            "Para 1": 10,
+            "Feeling suicidal": 5,
+            "Hallucinations visual": 5,
+            "Immobile": 5
+          }
+        },
+        {
+          "name": "Delusion",
+          "symptoms": {
+            "feeling hopeless": 75,
+            "irritable mood": 70,
+            "worry": 65,
+            "agitation": 60,
+            "sleeplessness": 58,
+            "weepiness": 55,
+            "disturbed family": 53,
+            "impaired cognition": 50,
+            "loose associations": 48,
+            "verbally abusive behavior": 45,
+            "homicidal thoughts": 43,
+            "suicidal": 40,
+            "hallucinations auditory": 38,
+            "catatonia": 35,
+            "terrify": 33,
+            "neologism": 30,
+            "blackout": 28,
+            "giddy mood": 25,
+            "decompensation": 23
+          }
+        },
+        {
+          "name": "Affective Disorder (Labile)",
+          "symptoms": {
+            "Feeling hopeless": 75,
+            "Extreme exhaustion": 72,
+            "Sleeplessness": 68,
+            "Patient non compliance": 60,
+            "Hallucinations visual": 50,
+            "Enuresis": 35,
+            "Prostatism": 25,
+            "Bedridden": 10
+          }
+        },
+        {
+          "name": "Decubitus Ulcer",
+          "symptoms": {
+            "Fever": 20,
+            "Systolic murmur": 5,
+            "Frail": 35
+          }
+        }
+    ]
+}
