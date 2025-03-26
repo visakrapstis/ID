@@ -7,10 +7,7 @@ Main projects
 [Medical diagnostics in streamlit](https://github.com/visakrapstis/ID/tree/main/medical_diagnostics)
 
 To look at the potential of the technology in the field of Medicine
-
-<img src="/assets/img/symptom_checker_1.jpg" width="200" height="200">
-<img src="/assets/img/symptom_checker_2.jpg" width="200" height="200">
-<img src="/assets/img/symptom_checker_3.jpg" width="200" height="200">
+![image]<img src="/assets/img/symptom_checker_3.jpg" width="200" height="200">
 
 
 ## Personal development in IT
