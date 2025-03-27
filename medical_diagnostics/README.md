@@ -13,6 +13,15 @@ The Disease Prediction Model project is currently in progress, with the followin
 9. **Model Testing**: The developed models were tested and evaluated to discover their accuracy and reliability.
 10. **Streamlit App**: A Streamlit app was developed to deploy the DL-model, providing a user-friendly interface for disease prediction and visualization.
 
+#### Pictures
+
+![image](/pics/symptom_checker_1.jpg)
+![image](/pics/symptom_checker_2.jpg)
+![image](/pics/symptom_checker_3.jpg)
+
+
+
+
 #### Next Steps
 The project can be continued with the following steps:
 
