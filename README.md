@@ -1,5 +1,11 @@
 # ID
-Main projects
+## About me in short
+Until recently, I was working as a Surgeon in visceral Surgery, Germany. I am very glad to have collected lots of experience from very good workplaces, inc. Mannheim and Ulm University hospitals. 
+As long as the medical career in Germany lasted, I was showing interest and involving myself in various research activities. 
+
+From a couple of years, I have a growing attraction to Data-Sciences as I begin to notice how much importance IT, Datasets, Data Analysis, Machine Learning and Artificial Intelligence win over years on the broader stage, 
+and I begin to understand the value of it in the future, especially in medicine. 
+So after the Graduation of Specialty at Ulm University Hospital, I decided to take a very close look at these Sciences and continue the Career with Data-Science Intensive course.
 
 ## Some reasant projects
 ### 1. A powerfull medicine diagnostic tool trained on neuronal networks
