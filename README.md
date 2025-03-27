@@ -1,5 +1,5 @@
-# ID
-## About me in short
+# About me in short
+
 Until recently, I was working as a Surgeon in visceral Surgery, Germany. I am very glad to have collected lots of experience from very good workplaces, inc. Mannheim and Ulm University hospitals. 
 As long as the medical career in Germany lasted, I was showing interest and involving myself in various research activities. 
 
@@ -7,7 +7,7 @@ From a couple of years, I have a growing attraction to Data-Sciences as I begin 
 and I begin to understand the value of it in the future, especially in medicine. 
 So after the Graduation of Specialty at Ulm University Hospital, I decided to take a very close look at these Sciences and continue the Career with Data-Science Intensive course.
 
-## Some reasant projects
+# Some reasant projects
 ### 1. A powerfull medicine diagnostic tool trained on neuronal networks
 
 [Medical diagnostics in streamlit](https://github.com/visakrapstis/ID/tree/main/medical_diagnostics)
@@ -18,7 +18,7 @@ To look at the potential of the technology in the field of Medicine
 -  link to come
 
 
-## Personal development in IT
+# Personal development in IT
 
 01.07.2024 – Start of training as a Data Scientist
 
