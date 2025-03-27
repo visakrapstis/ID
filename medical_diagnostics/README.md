@@ -15,7 +15,7 @@ The Disease Prediction Model project is currently in progress, with the followin
 
 #### Pictures
 
-<img src="pics/symptom_checker_2.jpg" style="width:400px;height:400px;">   <img src="pics/symptom_checker_3.jpg" style="width:400px;height:500px;">
+<img src="pics/symptom_checker_2.jpg" style="width:400px;height:400px;">   <img src="pics/symptom_checker_3.jpg" style="width:400px;height:450px;">
 
 
 #### Next Steps
