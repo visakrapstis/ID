@@ -1,13 +1,11 @@
 # About me in short
 
-Until recently, I was working as a Surgeon in visceral Surgery, Germany. I am very glad to have collected lots of experience from very good workplaces, inc. Mannheim and Ulm University hospitals. 
-As long as the medical career in Germany lasted, I was showing interest and involving myself in various research activities. 
+Until recently, I was working as a Surgeon Germany. I am very glad to have collected lots of experience from very good workplaces, inc. Mannheim and Ulm University hospitals. 
+As long as my medical career lasted, I was showing interest and involving myself in various research activities. 
+Though since a couple of years, I noticed growing attraction to Data-Sciences, so I decide to dive in with a first step being the Data-Science Intensive course.
+As for now my focus fully shifts to Data Sciences, Deep Learning and Artificial Intelligence.
 
-From a couple of years, I have a growing attraction to Data-Sciences as I begin to notice how much importance IT, Datasets, Data Analysis, Machine Learning and Artificial Intelligence win over years on the broader stage, 
-and I begin to understand the value of it in the future, especially in medicine. 
-So after the Graduation of Specialty at Ulm University Hospital, I decided to take a very close look at these Sciences and continue the Career with Data-Science Intensive course.
-
-# Some reasant projects
+# Some recent projects
 ### 1. A powerfull medicine diagnostic tool trained on neuronal networks
 
 [Medical diagnostics in streamlit](https://github.com/visakrapstis/ID/tree/main/medical_diagnostics)
