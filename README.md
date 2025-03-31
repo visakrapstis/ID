@@ -16,6 +16,10 @@ To look at the potential of the technology in the field of Medicine
 [Personal universal assistant](https://github.com/visakrapstis/ID/tree/main/personal%20assistant)
 My personal assistant using various llms, prompt engineering and adding various extra functionality for a frictionless workflow
 
+### 3. A simple Agent using Langchain framework
+
+- link follows
+
 # Personal development in IT
 
 01.07.2024 – Start of training as a Data Scientist
