@@ -13,8 +13,8 @@ To look at the potential of the technology in the field of Medicine
 
 ### 2. A personal coder using local LLM / Groq
 
--  link to come
-
+[Personal universal assistant](https://github.com/visakrapstis/ID/tree/main/personal%20assistant)
+My personal assistant using various llms, prompt engineering and adding various extra functionality for a frictionless workflow
 
 # Personal development in IT
 
