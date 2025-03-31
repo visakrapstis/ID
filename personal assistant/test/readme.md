@@ -2,4 +2,4 @@ Project Description: The goal is developing a personal assistant chatbot using P
 
 Please NOTE: to use a local LLM, additional download (exc. on ollama.com) is required. For a LLM through Groq-cloud, API key must be set as system variable (https://groq.com/groqcloud/)
 
-<img src="personal_assistant_1.jpg" style="width:700px;height:400px;">
+<img src="personal_assistant_1.jpg" style="width:900px;height:500px;">
