@@ -6,7 +6,7 @@ Though since a couple of years, I noticed growing attraction to Data-Sciences, s
 As for now my focus fully shifts to Data Sciences, Deep Learning and Artificial Intelligence.
 
 # Some recent projects
-### 1. A powerfull medicine diagnostic tool trained on neuronal networks
+### 1. A medicine diagnostic tool trained on neuronal networks
 
 [Medical diagnostics in streamlit](https://github.com/visakrapstis/ID/tree/main/medical_diagnostics)
 To look at the potential of the technology in the field of Medicine
@@ -18,7 +18,8 @@ My personal assistant using various llms, prompt engineering and adding various 
 
 ### 3. A simple Agent using Langchain framework
 
-- link follows
+[Personal Agent](https://github.com/visakrapstis/ID/tree/main/agent%20with%20tools)
+Exploring the power of LLMs with tools (python, local RAG, web search and more!)
 
 # Personal development in IT
 
@@ -38,4 +39,4 @@ My personal assistant using various llms, prompt engineering and adding various 
 
 01.03.2025 – Working with the LangChain library and first agents. Started coding with AI assistance for learning and productivity purposes. Participation in Hackergarten (codecentric AG), Big Data & AI webinar (Wirtschaftsförderung Region Stuttgart GmbH), AI-Conversational Days at AI-Xpress, AI Roundtable. Introduction to MCPs (Model Context Protocol)
 
-20.03.2025 – Hierarchical Agent
+15.03.2025 - 04.04.2025 – 3 Projects mentioned above (medical diagnostic tool, personal LLM Assistant, Agent with tools). Entrepreneurs Stuttgart Meetup
