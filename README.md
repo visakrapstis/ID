@@ -9,17 +9,25 @@ As for now my focus fully shifts to Data Sciences, Deep Learning and Artificial 
 ### 1. A medicine diagnostic tool trained on neuronal networks
 
 [Medical diagnostics in streamlit](https://github.com/visakrapstis/ID/tree/main/medical_diagnostics)
-To look at the potential of the technology in the field of Medicine
+A look at the potential of the technology in the field of Medicine. 
+-  Data cleaning, data optimization and data-augmentation implementing LLM.
+-  Prediction model using Neuronal Network
+-  User - friendly interface with Streamlit
 
 ### 2. A personal coder using local LLM / Groq
 
 [Personal universal assistant](https://github.com/visakrapstis/ID/tree/main/personal%20assistant)
-My personal assistant using various llms, prompt engineering and adding various extra functionality for a frictionless workflow
+My personal assistant using various llms, prompt engineering and adding various extra functionality for a frictionless workflow.
+- Using local and larger open source LLMs from Groq cloud
+- Various functions for a comfortable workflow
+- Advanced prompting for in depth manipulation / value extraction of LLM 
 
 ### 3. A simple Agent using Langchain framework
 
 [Personal Agent](https://github.com/visakrapstis/ID/tree/main/agent%20with%20tools)
-Exploring the power of LLMs with tools (python, local RAG, web search and more!)
+Exploring the power of LLMs with tools.
+- Implementation of instruments like python, web-search, RAG for advanced queries
+- Seamless exploitation in a form of a chat
 
 # Personal development in IT
 
