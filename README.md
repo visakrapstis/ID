@@ -1,6 +1,6 @@
 # About me in short
 
-Until recently, I was working as a Surgeon Germany. I am very glad to have collected lots of experience from very good workplaces, inc. Mannheim and Ulm University hospitals. 
+Until recently, I was working as a Surgeon in Germany. I am very glad to have collected lots of experience from very good workplaces, incl. Mannheim and Ulm University hospitals. 
 As long as my medical career lasted, I was showing interest and involving myself in various research activities. 
 Though since a couple of years, I noticed growing attraction to Data-Sciences, so I decide to dive in with a first step being the Data-Science Intensive course.
 As for now my focus fully shifts to Data Sciences, Deep Learning and Artificial Intelligence.
