@@ -48,3 +48,5 @@ Exploring the power of LLMs with tools.
 01.03.2025 – Working with the LangChain library and first agents. Started coding with AI assistance for learning and productivity purposes. Participation in Hackergarten (codecentric AG), Big Data & AI webinar (Wirtschaftsförderung Region Stuttgart GmbH), AI-Conversational Days at AI-Xpress, AI Roundtable. Introduction to MCPs (Model Context Protocol)
 
 15.03.2025 - 04.04.2025 – 3 Projects mentioned above (medical diagnostic tool, personal LLM Assistant, Agent with tools). Entrepreneurs Stuttgart Meetup
+
+14.04.2025 - aktuell - practice by Voisento.de
