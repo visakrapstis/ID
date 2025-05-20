@@ -50,3 +50,6 @@ Exploring the power of LLMs with tools.
 15.03.2025 - 04.04.2025 – 3 Projects mentioned above (medical diagnostic tool, personal LLM Assistant, Agent with tools). Entrepreneurs Stuttgart Meetup
 
 14.04.2025 - now - practice by Voisento.de
+          - various Demo-Projects with Voiceflow
+          - Course Agentic-AI and n8n-Course (AI Training Institute)
+          - n8n: personal AI Agent-Assistant (Gmail, Calendar, Google docs, Notes, Internet)
